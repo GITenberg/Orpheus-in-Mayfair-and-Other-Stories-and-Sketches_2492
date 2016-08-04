@@ -1,0 +1,33 @@
+_repo: Orpheus-in-Mayfair-and-Other-Stories-and-Sketches_2492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
+description: ''
+gutenberg_issued: '2006-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'Orpheus in Mayfair -- The cricket match: an incident at a private
+  school -- The shadow of a midnight: a ghost story -- Jean Francois -- The flute
+  of Chang Liang -- "What is truth?" -- A luncheon-party -- Fete galante -- The garland
+  -- The spider''s web -- Edward II. at Berkeley Castle, by an eye-witness -- The
+  island -- The man who gave good advice -- Russalka -- The old woman -- Dr. Faust''s
+  last day -- The flute-player''s story -- A Chinaman on Oxford -- Venus -- The fire
+  -- The conqueror -- The ikon -- The thief -- The star -- Chun Wa.'
+title: Orpheus in Mayfair, and Other Stories and Sketches
+url: http://www.gutenberg.org/ebooks/2492
